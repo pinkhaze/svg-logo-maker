@@ -1,6 +1,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 
+// import prompts and shape classes
 const { questions } = require('./lib/questions');
 const { Circle, Square, Triangle } = require('./lib/shapes.js');
 
@@ -27,11 +28,15 @@ function init() {
       case 'Square':
         userShape = new Square();
         break;
+      default:
+        console.log('Shape not supported')
+        break;
     }
 
     const { shapeColor, logoText, textColor } = answers;
 
     userShape.setColor(shapeColor);
+
 
     const svgEl = `
       <svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
