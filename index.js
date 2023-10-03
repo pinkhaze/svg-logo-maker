@@ -6,7 +6,7 @@ const { Circle, Square, Triangle } = require('./lib/shapes.js');
 
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => 
-  err ? console.log(err) : console.log('Success! Your SVG logo file is located in the dist folder.')
+  err ? console.log(err) : console.log('Generated "logo.svg". Your SVG file is located in the "dist" folder.')
   );
 }
 

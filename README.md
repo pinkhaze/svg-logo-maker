@@ -63,6 +63,7 @@
   ## Credits
 
   [Module 10 Mini Project](https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG/-/tree/main/18-NoSQL/01-Activities/28-Stu_Mini-Project)
+  [Validate in Inquirer](https://gist.github.com/Amitabh-K/ae073eea3d5207efaddffde19b1618e8)
 
   ## License
 
