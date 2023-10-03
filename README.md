@@ -58,7 +58,7 @@
 
   ## Usage
 
-  [Social Media Back End Walk-Through.webm](https://github.com/pinkhaze/social-media-back-end/assets/55771228/991e4c13-8340-4096-845d-a6d79546ff66)
+  [SVG Logo Walk-Through Video.webm](https://github.com/pinkhaze/svg-logo-maker/assets/55771228/b6223a80-9a1b-4076-b3c4-4d61b5bd577c)
 
   ## Credits
 
